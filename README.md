@@ -98,11 +98,31 @@ NodeJS, Express, Express-Session, Nodemon, hbs - Express.js view engine for hand
 
 For any extra questions, please contact me at gtsopour@gmail.com.  -->
 
-## HOSTEL-HUB => Full Stack Website in Node.js
+## HOSTEL-HUB (Full Stack Website in Node.js)
 
-![NodeJS Shopping Cart](./bedsheet.jpg?raw=true "NodeJS Shopping Cart")
+# Project Title
 
-![flashcart](https://user-images.githubusercontent.com/46110216/51437944-67fbba00-1ccb-11e9-8bb4-f5c0430be030.png)
+One-step solution to all the hostel problems.
+Want to stay organised for your hostel life?, then this is the place for you.We have organised everything a hosteler ever needs, so that you can have access to them in one place.
+
+![Screenshot](./Screenshot.png?raw=true "Screenshot")
+
+#### Features of the Website -
+
+Admin Side :-     
+- Verify users using their College IDs.
+- Monitor trends of mess-poll.
+- View complaints regarding hostel and mess.
+- Access to student's hostel & mess attendence.
+
+User Side-
+- Welcome e-mail following the registration.
+- Option of setting new password through e-mail on registered id.
+- Casting vote for mess menu.
+- Managing laundry.
+- Filing hostel as well as mess complaint.
+- Updating hostel & mess attendence.
+- Easy access to hostel notices, mess-menu, hostel authorities details, etc.
 
 ## HOW TO RUN
 
@@ -128,3 +148,6 @@ For any extra questions, please contact me at gtsopour@gmail.com.  -->
 - Login Functionality
 - Sharing session over pages
 - Storing details in database
+
+### View deployed site- 
+https://hostel-hub.herokuapp.com/
