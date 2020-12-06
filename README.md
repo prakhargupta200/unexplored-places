@@ -1,7 +1,4 @@
-# unexplored-places
-A node.js web app where people can create their account and add information of unexplored places around the globe.
-•	Creating robust REST-API backend using Node.js, MongoDB and frontend using jQuery and Bootstrap.
-•	Main features include Authentication and CRUD functionality.
+
 <!-- # Project Title
 
 A nice project with a nice description
@@ -74,7 +71,7 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 ### Run locally on your machine
 You need to have installed Node and NPM.
 
-![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
+![NodeJS Shopping Cart](/bedsheet.jpg?raw=true "NodeJS Shopping Cart")
 
 Clone this repository
 ``` shell
@@ -103,6 +100,8 @@ For any extra questions, please contact me at gtsopour@gmail.com.  -->
 
 ## HOSTEL-HUB => Full Stack Website in Node.js
 
+![NodeJS Shopping Cart](./bedsheet.jpg?raw=true "NodeJS Shopping Cart")
+
 ![flashcart](https://user-images.githubusercontent.com/46110216/51437944-67fbba00-1ccb-11e9-8bb4-f5c0430be030.png)
 
 ## HOW TO RUN
@@ -117,9 +116,10 @@ For any extra questions, please contact me at gtsopour@gmail.com.  -->
 -------------------------------------------------------------------------------------------------------------
 - [NodeJS](https://nodejs.org/en/docs/)
 - [ExpressJS](https://expressjs.com/en/4x/api.html)
-- Express-[Session](https://github.com/expressjs/session)/[Validaor](https://github.com/ctavan/express-validator)
+- Express-[Session](https://github.com/expressjs/session)
 - [MongoDB](https://www.mongodb.com/)([Mongoose](mongoosejs.com/docs/)/[connect-mongo](https://www.npmjs.com/package/connect-mongo))
 - [EJS](http://ejs.co/)
+- [Mailgun](http://mailgun.com/)
 - [Passport](http://passportjs.org/docs)
 
 #### This Project has following functionalities-
