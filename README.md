@@ -4,7 +4,9 @@ One-step solution to all the hostel problems.
 Want to stay organised for your hostel life?, then this is the place for you.We have organised everything a hosteler ever needs, so that you can have access to them in one place.
 
 
+
 ![Screenshot](./Screenshot.png?raw=true "Screenshot")
+
 
 
 ## Features of the Website -
@@ -28,13 +30,15 @@ Want to stay organised for your hostel life?, then this is the place for you.We 
 ### View deployed site- 
 https://hostel-hub.herokuapp.com/
 
-### HOW TO RUN
+
+### HOW TO RUN (In local machine)
 
 - Download ZIP or Clone the repository
 - Navigate to the directory
 - Open Terminal and type `npm install` It will install all dependencies
 - Then type `node app.js` It will start the server
 - Type `localhost:3000` to go to the index page
+
 
 ### Things used to make the Project
 -------------------------------------------------------------------------------------------------------------
